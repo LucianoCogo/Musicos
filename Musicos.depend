@@ -1,0 +1,115 @@
+# depslib dependency file v1.0
+1687433872 source:c:\users\luciano\desktop\utn\laboratorio de computacion 2\parcial 1\musicos\main.cpp
+	<iostream>
+	<ctime>
+	<string.h>
+	"Fecha.h"
+	"Musico.h"
+	"Genero.h"
+	"Instrumento.h"
+	"Pais.h"
+	"Configuracion.h"
+	"a.h"
+	"ArchivoMusico.h"
+	"ArchivoGenero.h"
+	"ArchivoInstrumento.h"
+	"ArchivoPais.h"
+	"MenuMusicos.h"
+	"MenuGeneros.h"
+	"MenuInstrumentos.h"
+	"MenuPais.h"
+	"MenuConfiguracion.h"
+	"reportes.h"
+
+1684068831 c:\users\luciano\desktop\utn\laboratorio de computacion 2\parcial 1\musicos\fecha.h
+
+1683386956 c:\users\luciano\desktop\utn\laboratorio de computacion 2\parcial 1\musicos\persona.h
+
+1687107295 c:\users\luciano\desktop\utn\laboratorio de computacion 2\parcial 1\musicos\musico.h
+
+1687107304 c:\users\luciano\desktop\utn\laboratorio de computacion 2\parcial 1\musicos\archivomusico.h
+
+1687193598 c:\users\luciano\desktop\utn\laboratorio de computacion 2\parcial 1\musicos\a.h
+
+1687107316 c:\users\luciano\desktop\utn\laboratorio de computacion 2\parcial 1\musicos\menumusicos.h
+
+1687107244 c:\users\luciano\desktop\utn\laboratorio de computacion 2\parcial 1\musicos\menugeneros.h
+
+1687189557 c:\users\luciano\desktop\utn\laboratorio de computacion 2\parcial 1\musicos\genero.h
+
+1687439238 c:\users\luciano\desktop\utn\laboratorio de computacion 2\parcial 1\musicos\archivogenero.h
+
+1684333300 c:\users\luciano\desktop\utn\laboratorio de computacion 2\parcial 1\musicos\menuconfiguracion.h
+
+1687272665 c:\users\luciano\desktop\utn\laboratorio de computacion 2\parcial 1\musicos\configuracion.h
+
+1687442810 c:\users\luciano\desktop\utn\laboratorio de computacion 2\parcial 1\musicos\reportes.h
+
+1687193311 c:\users\luciano\desktop\utn\laboratorio de computacion 2\parcial 1\musicos\instrumento.h
+
+1687193598 c:\users\luciano\desktop\utn\laboratorio de computacion 2\parcial 1\musicos\archivoinstrumento.h
+
+1687107244 c:\users\luciano\desktop\utn\laboratorio de computacion 2\parcial 1\musicos\menuinstrumentos.h
+
+1687193338 c:\users\luciano\desktop\utn\laboratorio de computacion 2\parcial 1\musicos\pais.h
+
+1687193200 c:\users\luciano\desktop\utn\laboratorio de computacion 2\parcial 1\musicos\archivopais.h
+
+1687109410 c:\users\luciano\desktop\utn\laboratorio de computacion 2\parcial 1\musicos\menupais.h
+
+1688042948 source:c:\users\luciano\desktop\nueva carpeta\main.cpp
+	<iostream>
+	<ctime>
+	<string.h>
+	"Fecha.h"
+	"Musico.h"
+	"Genero.h"
+	"Instrumento.h"
+	"Pais.h"
+	"Configuracion.h"
+	"a.h"
+	"ArchivoMusico.h"
+	"ArchivoGenero.h"
+	"ArchivoInstrumento.h"
+	"ArchivoPais.h"
+	"MenuMusicos.h"
+	"MenuGeneros.h"
+	"MenuInstrumentos.h"
+	"MenuPais.h"
+	"MenuConfiguracion.h"
+	"reportes.h"
+
+1684068831 c:\users\luciano\desktop\nueva carpeta\fecha.h
+
+1687107295 c:\users\luciano\desktop\nueva carpeta\musico.h
+
+1687189557 c:\users\luciano\desktop\nueva carpeta\genero.h
+
+1687193311 c:\users\luciano\desktop\nueva carpeta\instrumento.h
+
+1687193338 c:\users\luciano\desktop\nueva carpeta\pais.h
+
+1687272665 c:\users\luciano\desktop\nueva carpeta\configuracion.h
+
+1687193598 c:\users\luciano\desktop\nueva carpeta\a.h
+
+1687107304 c:\users\luciano\desktop\nueva carpeta\archivomusico.h
+
+1687439238 c:\users\luciano\desktop\nueva carpeta\archivogenero.h
+
+1687193598 c:\users\luciano\desktop\nueva carpeta\archivoinstrumento.h
+
+1687193200 c:\users\luciano\desktop\nueva carpeta\archivopais.h
+
+1687107316 c:\users\luciano\desktop\nueva carpeta\menumusicos.h
+
+1687107244 c:\users\luciano\desktop\nueva carpeta\menugeneros.h
+
+1687107244 c:\users\luciano\desktop\nueva carpeta\menuinstrumentos.h
+
+1687109410 c:\users\luciano\desktop\nueva carpeta\menupais.h
+
+1684333300 c:\users\luciano\desktop\nueva carpeta\menuconfiguracion.h
+
+1688048055 c:\users\luciano\desktop\nueva carpeta\reportes.h
+
